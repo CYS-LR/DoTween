@@ -8,6 +8,6 @@
         "type": "git",
         "url": "git+https://github.com/CYSFrame/DoTween"
     },
-    "src": "Packages/DoTween-UPM",
+    "src": "Packages/DoTween",
     "author": "https://github.com/Demigiant & https://github.com/CYSFrame"
 }
