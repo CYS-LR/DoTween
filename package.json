@@ -6,7 +6,7 @@
     "unity": "2018.4",
     "repository": {
         "type": "git",
-        "url": "git+https://github.com/CYSFrame/DoTween"
+        "url": "git+https://github.com/CYSFrame/DoTween-Unity"
     },
     "src": "Packages/DoTween-UPM",
     "author": "DoTween-UPM"
